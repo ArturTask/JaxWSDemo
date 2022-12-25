@@ -50,8 +50,8 @@ If we want to make common Web server we also need to implement REST layer so tha
  
 ## Useful links
 
-https://systems.education/soap-integration?ysclid=lc3gm3pd27391461167
-https://youtu.be/XFWoHayjMnE
-https://www.baeldung.com/jax-ws
+* https://systems.education/soap-integration?ysclid=lc3gm3pd27391461167
+* https://youtu.be/XFWoHayjMnE
+* https://www.baeldung.com/jax-ws
 
  
